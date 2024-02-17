@@ -1,4 +1,4 @@
-# a shopping cart application ui using html, css, javascript, react.js.
+# A Shopping Cart Application UI using HTML, CSS, Javascript, react.js.
 
 # Home Page 
 ![home page](https://github.com/Yesha2004/shopping-cart/assets/139550824/0f409929-84f7-417b-9afb-58b8da0d37a5)
